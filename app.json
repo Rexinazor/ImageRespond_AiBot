@@ -1,15 +1,13 @@
 {
-    "name": "AI BOT",
+    "name": "ImageRespond_AiBot",
     "description": "An AI based Telegram bot that can describe every photo that you send.",
     "keywords": [
         "AI",
-        "Alvi",
         "Fun",
         "Telegram",
         "Bot"
     ],
-    "logo": "https://telegra.ph/file/a251cb92f717d021f7fab.jpg",
-    "repository": "https://github.com/Benchamxd/Ai-Bot",
+    "repository": "https://github.com/Rexinazor/ImageRespond_AiBot",
     "success_url": "/",
     "env": {
         "TG_BOT_TOKEN": {
