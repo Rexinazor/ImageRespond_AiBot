@@ -1,4 +1,4 @@
-# Ai-Bot
+# ImageRespond_AiBot
 <p align="center"><a href="https://t.me/MissAlvi_Bot"><img src="https://telegra.ph/file/fd8fe25c8a0a77a7de606.jpg" width="5000"></a></p> 
 
 An AI based Telegram bot that can describe every photo that you send.
